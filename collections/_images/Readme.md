@@ -1,1 +1,0 @@
-# Images for the website are stored here!
